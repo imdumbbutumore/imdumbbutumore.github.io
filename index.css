@@ -1,0 +1,29 @@
+#start{
+	text-align: center;
+	padding-top: 50px;
+	font-size: 50px;
+}
+#title{
+	line-height: 20px;
+	color: #9b2226;
+}
+#text{
+	color: #ae2012;
+}
+#text2{
+	color: #bb3e03;
+}
+#text3{
+	color: #ca6702;
+}
+#text4{
+	color: #ee9b00;
+}
+body{
+	background-color: #e9d8a6;
+}
+img{ 
+	transition: all 100ms; 
+	position: absolute;
+	left: 25%;
+}
